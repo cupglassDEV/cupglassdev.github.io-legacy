@@ -259,9 +259,13 @@ section#notice iframe {
 }
 
 .vids {
-    list-style: none;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
 }
 
 .vids iframe {
     display: inline;
+    margin-right: 10px;
 }
