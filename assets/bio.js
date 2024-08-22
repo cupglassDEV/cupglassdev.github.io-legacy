@@ -14,6 +14,7 @@ export default {
     notice: {
         title: "huh, its fine now",
         important: true,
-        description: `House of Representative (DPR) Indonesia already cancelled the revision. Thats great... maybe?`,
+        description: `House of Representative (DPR) Indonesia already cancelled the revision. Thats great, even tho the situation is already worse before this`,
+        links: [],
     },
 };
