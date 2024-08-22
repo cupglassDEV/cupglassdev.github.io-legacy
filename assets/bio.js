@@ -12,7 +12,8 @@ export default {
         "luau",
     ],
     notice: {
-        livevid: `<iframe width="520" height="300" src="https://www.youtube.com/embed/JM_0h1E4Ols?si=rrVSql6wzsxW3gaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
+        livevid: `
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/rONUSWIPhbA?si=aMamh5c3Grt2nqtz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><iframe width="520" height="300" src="https://www.youtube.com/embed/JM_0h1E4Ols?si=rrVSql6wzsxW3gaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
         livevidCopyright:
             "© 2024 CNN Indonesia, Trans Media & Warner Bros. Discovery all rights reserved",
         title: "someone is trying to bypass smth at my country",
