@@ -1,4 +1,4 @@
-import bio from "./bio";
+import bio from "./bio.js";
 class append {
   /** @param {HTMLElement} parent */
   constructor(parent) {
