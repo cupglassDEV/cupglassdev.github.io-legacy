@@ -257,3 +257,11 @@ section#notice iframe {
     justify-content: space-around;
     margin: 20px;
 }
+
+.vids {
+    list-style: none;
+}
+
+.vids iframe {
+    display: inline;
+}

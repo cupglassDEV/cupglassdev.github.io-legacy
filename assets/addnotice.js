@@ -19,7 +19,7 @@ function addnotice() {
   c.classList.add("child");
   const h4 = document.createElement("h4");
   if (bio.notice.important) {
-    h4.innerHTML = "this is important..";
+    h4.innerHTML = "this is important.. (scroll to ignore)";
     h4.classList.add("child");
   }
   const h = document.createElement("h1");
