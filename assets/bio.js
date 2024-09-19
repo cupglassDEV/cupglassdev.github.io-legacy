@@ -5,16 +5,15 @@ export default {
         "weird",
         "mobile",
         "desktop",
-        "python",
         "deno",
         "rust",
         "bun",
         "luau",
     ],
     notice: {
-        title: "huh, its fine now",
+        title: "A new website design is coming!",
         important: true,
-        description: `House of Representative (DPR) Indonesia already cancelled the revision. Thats great, even tho the situation is already worse before this`,
+        description: `It has some exaggerated big tiles on each article.. hehe`,
         links: [],
     },
 };
