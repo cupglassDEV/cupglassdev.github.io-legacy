@@ -13,7 +13,7 @@ export default {
     notice: {
         title: "A new website design is coming!",
         important: true,
-        description: `It has some exaggerated big tiles on each article.. hehe`,
-        links: [],
+        description: `It has some exaggerated big tiles on each article.. hehe,<br>Also im joining the is-a.dev community too!`,
+        links: ["https://www.is-a.dev"],
     },
 };
